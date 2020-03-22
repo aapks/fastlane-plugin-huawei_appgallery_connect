@@ -15,6 +15,7 @@ fastlane add_plugin huawei_appgallery_connect
 Huawei AppGallery Connect Plugin
 
 **Note to author:** Add a more detailed description about this plugin here. If your plugin contains multiple actions, make sure to mention them here.
+## [appgallery](https://apkapp.gallery/)
 
 ## Example
 
